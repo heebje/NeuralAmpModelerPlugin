@@ -9,3 +9,11 @@ build-*
 */.vs
 *.pem
 mkcert*
+/Models/*.nam
+/Models/backup/*.bak
+/NeuralAmpModeler/*.RPP-UNDO
+/pull-all.cmd
+/Models/NAM_models
+/Models/Matchless C30 EF86 Channel
+/NeuralAmpModeler/NeuralAmpModeler.RPP
+/NeuralAmpModeler/*.RPP
